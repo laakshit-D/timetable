@@ -84,3 +84,5 @@ Execute the program
 ```
 # OUTPUT
 ![output](/Screenshot%20from%202023-01-05%2011-56-01.png)
+# RESULT
+The timetable is displayed successfully
